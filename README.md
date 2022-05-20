@@ -1,2 +1,2 @@
 # Smart-Aquarium
-Smart Aquarium (IoT Group Project)  
+Smart Aquarium - (IoT Group Project)  
