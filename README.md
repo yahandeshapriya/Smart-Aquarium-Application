@@ -1,2 +1,2 @@
 # Smart-Aquarium 
-Smart Aquarium Project
+Smart Aquarium Application Project
